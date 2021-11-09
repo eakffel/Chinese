@@ -9,9 +9,8 @@ function Top() {
 
      <div className="Main">
         <p>
-    Eliza Keffeler
+    Chinese Word Search Tool
        </p>
-
 
 </div>
 
